@@ -30,3 +30,4 @@ function searchBtn() {
     city = searchInput.value;
     loadApi();
 }
+loadApi();
